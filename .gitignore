@@ -43,4 +43,5 @@ vulkan-sdk/
 *.dmg
 ncnn/
 libwebp/
-images_out/*
+images_out/*.DS_Store
+.cache
